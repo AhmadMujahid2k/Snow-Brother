@@ -1,0 +1,5327 @@
+fileFormatVersion: 2
+guid: 408c296eab4641b46973c1f2c4a2959e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7149988308608805688
+    second: SnowBrosSheet1_0
+  - first:
+      213: 6209754959576978265
+    second: SnowBrosSheet1_1
+  - first:
+      213: -4890698609323959367
+    second: SnowBrosSheet1_2
+  - first:
+      213: 3614537356920814762
+    second: SnowBrosSheet1_3
+  - first:
+      213: 1102603569063066241
+    second: SnowBrosSheet1_4
+  - first:
+      213: -4696613802088860150
+    second: SnowBrosSheet1_5
+  - first:
+      213: 9201021512766823254
+    second: SnowBrosSheet1_6
+  - first:
+      213: -3898980680319782071
+    second: SnowBrosSheet1_7
+  - first:
+      213: 4212600670909242802
+    second: SnowBrosSheet1_8
+  - first:
+      213: -4657985164636669585
+    second: SnowBrosSheet1_9
+  - first:
+      213: -9119880802048548576
+    second: SnowBrosSheet1_10
+  - first:
+      213: 8663749175501895987
+    second: SnowBrosSheet1_11
+  - first:
+      213: 4632324490166231891
+    second: SnowBrosSheet1_12
+  - first:
+      213: 2398051559589515768
+    second: SnowBrosSheet1_13
+  - first:
+      213: -2890884713605464450
+    second: SnowBrosSheet1_14
+  - first:
+      213: -5763486728513811962
+    second: SnowBrosSheet1_15
+  - first:
+      213: 8423963068861181645
+    second: SnowBrosSheet1_16
+  - first:
+      213: 6374239115602880274
+    second: SnowBrosSheet1_17
+  - first:
+      213: 8978226506924296662
+    second: SnowBrosSheet1_18
+  - first:
+      213: -2086017108143137577
+    second: SnowBrosSheet1_19
+  - first:
+      213: 21061531940133087
+    second: SnowBrosSheet1_20
+  - first:
+      213: 5354642694376262146
+    second: SnowBrosSheet1_21
+  - first:
+      213: -8572582339131950041
+    second: SnowBrosSheet1_22
+  - first:
+      213: 8924799873636340907
+    second: SnowBrosSheet1_23
+  - first:
+      213: 627300189885689561
+    second: SnowBrosSheet1_24
+  - first:
+      213: -5760263174317771604
+    second: SnowBrosSheet1_25
+  - first:
+      213: -2807272817845462146
+    second: SnowBrosSheet1_26
+  - first:
+      213: 2568233643199080413
+    second: SnowBrosSheet1_27
+  - first:
+      213: 2639953239902828194
+    second: SnowBrosSheet1_28
+  - first:
+      213: -6434677036247430833
+    second: SnowBrosSheet1_29
+  - first:
+      213: 5136181013054290751
+    second: SnowBrosSheet1_30
+  - first:
+      213: -737648466677616412
+    second: SnowBrosSheet1_31
+  - first:
+      213: -1378502034642930714
+    second: SnowBrosSheet1_32
+  - first:
+      213: -7893200667699569107
+    second: SnowBrosSheet1_33
+  - first:
+      213: -5667500600980736636
+    second: SnowBrosSheet1_34
+  - first:
+      213: -5919518006139296359
+    second: SnowBrosSheet1_35
+  - first:
+      213: -2831649551396504168
+    second: SnowBrosSheet1_36
+  - first:
+      213: 3358593739259400439
+    second: SnowBrosSheet1_37
+  - first:
+      213: -8881975620635682023
+    second: SnowBrosSheet1_38
+  - first:
+      213: -3214297368905504385
+    second: SnowBrosSheet1_39
+  - first:
+      213: -1028316436047436360
+    second: SnowBrosSheet1_40
+  - first:
+      213: 1880820544994286986
+    second: SnowBrosSheet1_41
+  - first:
+      213: 2260757132893097061
+    second: SnowBrosSheet1_42
+  - first:
+      213: -2710201652393342652
+    second: SnowBrosSheet1_43
+  - first:
+      213: 2759977770077227051
+    second: SnowBrosSheet1_44
+  - first:
+      213: 4319645056784821437
+    second: SnowBrosSheet1_45
+  - first:
+      213: 3913758556337910677
+    second: SnowBrosSheet1_46
+  - first:
+      213: -9173168462986135895
+    second: SnowBrosSheet1_47
+  - first:
+      213: 302457696342189201
+    second: SnowBrosSheet1_48
+  - first:
+      213: -2888857891005362395
+    second: SnowBrosSheet1_49
+  - first:
+      213: 1543527238883312936
+    second: SnowBrosSheet1_50
+  - first:
+      213: -6433358426405909548
+    second: SnowBrosSheet1_51
+  - first:
+      213: 6011586219086973293
+    second: SnowBrosSheet1_52
+  - first:
+      213: 4948937589325364474
+    second: SnowBrosSheet1_53
+  - first:
+      213: -2474571703795211246
+    second: SnowBrosSheet1_54
+  - first:
+      213: -6088710793291504663
+    second: SnowBrosSheet1_55
+  - first:
+      213: 5536362657484036474
+    second: SnowBrosSheet1_56
+  - first:
+      213: 3065440037431268764
+    second: SnowBrosSheet1_57
+  - first:
+      213: 3129930059394163270
+    second: SnowBrosSheet1_58
+  - first:
+      213: 1215685304135863116
+    second: SnowBrosSheet1_59
+  - first:
+      213: 3522696188098483430
+    second: SnowBrosSheet1_60
+  - first:
+      213: -8119406326563486800
+    second: SnowBrosSheet1_61
+  - first:
+      213: -2902155387552686305
+    second: SnowBrosSheet1_62
+  - first:
+      213: 5340182599346471560
+    second: SnowBrosSheet1_63
+  - first:
+      213: 2137932500186739954
+    second: SnowBrosSheet1_64
+  - first:
+      213: -7817684122578092987
+    second: SnowBrosSheet1_65
+  - first:
+      213: 4652710354829143059
+    second: SnowBrosSheet1_66
+  - first:
+      213: -2633793045714556906
+    second: SnowBrosSheet1_67
+  - first:
+      213: -8049852160690886195
+    second: SnowBrosSheet1_68
+  - first:
+      213: 6855763767852060081
+    second: SnowBrosSheet1_69
+  - first:
+      213: -1550235729292709050
+    second: SnowBrosSheet1_70
+  - first:
+      213: -3246567061013562393
+    second: SnowBrosSheet1_71
+  - first:
+      213: 4994113823882406186
+    second: SnowBrosSheet1_72
+  - first:
+      213: -5036728541294797839
+    second: SnowBrosSheet1_73
+  - first:
+      213: -1022513909010847824
+    second: SnowBrosSheet1_74
+  - first:
+      213: -7596224839023900853
+    second: SnowBrosSheet1_75
+  - first:
+      213: 3478256613728738004
+    second: SnowBrosSheet1_76
+  - first:
+      213: 7691864560799622648
+    second: SnowBrosSheet1_77
+  - first:
+      213: -5673754867509126388
+    second: SnowBrosSheet1_78
+  - first:
+      213: -8485169598952327207
+    second: SnowBrosSheet1_79
+  - first:
+      213: 4760047325070839586
+    second: SnowBrosSheet1_80
+  - first:
+      213: 732059235285279710
+    second: SnowBrosSheet1_81
+  - first:
+      213: 1535613690353576258
+    second: SnowBrosSheet1_82
+  - first:
+      213: -8513665148354618538
+    second: SnowBrosSheet1_83
+  - first:
+      213: 6922452299054691296
+    second: SnowBrosSheet1_84
+  - first:
+      213: -1929263892707556929
+    second: SnowBrosSheet1_85
+  - first:
+      213: 1650975638184322463
+    second: SnowBrosSheet1_86
+  - first:
+      213: -897507866044210831
+    second: SnowBrosSheet1_87
+  - first:
+      213: 7619248073367210520
+    second: SnowBrosSheet1_88
+  - first:
+      213: -1782902494622271076
+    second: SnowBrosSheet1_89
+  - first:
+      213: -6933486604124609458
+    second: SnowBrosSheet1_90
+  - first:
+      213: -8302570058298624340
+    second: SnowBrosSheet1_91
+  - first:
+      213: 4011437110263025466
+    second: SnowBrosSheet1_92
+  - first:
+      213: 5860483421554664147
+    second: SnowBrosSheet1_93
+  - first:
+      213: -7346838029834558072
+    second: SnowBrosSheet1_94
+  - first:
+      213: -6596357311946609393
+    second: SnowBrosSheet1_95
+  - first:
+      213: 7705436539928682385
+    second: SnowBrosSheet1_96
+  - first:
+      213: 4079611446720411045
+    second: SnowBrosSheet1_97
+  - first:
+      213: 4666762515195663113
+    second: SnowBrosSheet1_98
+  - first:
+      213: 6079407352204686826
+    second: SnowBrosSheet1_99
+  - first:
+      213: -4071286512690089807
+    second: SnowBrosSheet1_100
+  - first:
+      213: 8000224988047634512
+    second: SnowBrosSheet1_101
+  - first:
+      213: 2810394993935190451
+    second: SnowBrosSheet1_102
+  - first:
+      213: 7897144619974752622
+    second: SnowBrosSheet1_103
+  - first:
+      213: -5644889961102646386
+    second: SnowBrosSheet1_104
+  - first:
+      213: -5860192384276091747
+    second: SnowBrosSheet1_105
+  - first:
+      213: -5820197529883101858
+    second: SnowBrosSheet1_106
+  - first:
+      213: -6812930123599507764
+    second: SnowBrosSheet1_107
+  - first:
+      213: -2933653377091851296
+    second: SnowBrosSheet1_108
+  - first:
+      213: 409545817153978390
+    second: SnowBrosSheet1_109
+  - first:
+      213: 1600228685380286955
+    second: SnowBrosSheet1_110
+  - first:
+      213: 8025113185437811414
+    second: SnowBrosSheet1_111
+  - first:
+      213: 9085324503730560895
+    second: SnowBrosSheet1_112
+  - first:
+      213: 1443650709824719566
+    second: SnowBrosSheet1_113
+  - first:
+      213: -2989881988287272091
+    second: SnowBrosSheet1_114
+  - first:
+      213: 1641166733396874189
+    second: SnowBrosSheet1_115
+  - first:
+      213: 1488586769769061702
+    second: SnowBrosSheet1_116
+  - first:
+      213: 2184936109101686246
+    second: SnowBrosSheet1_117
+  - first:
+      213: -8645416062016064300
+    second: SnowBrosSheet1_118
+  - first:
+      213: 543586356338829917
+    second: SnowBrosSheet1_119
+  - first:
+      213: -3519232870343678021
+    second: SnowBrosSheet1_120
+  - first:
+      213: 6727804416789124779
+    second: SnowBrosSheet1_121
+  - first:
+      213: -8519870532725176374
+    second: SnowBrosSheet1_122
+  - first:
+      213: 7011596627161451909
+    second: SnowBrosSheet1_123
+  - first:
+      213: 6861067881885026217
+    second: SnowBrosSheet1_124
+  - first:
+      213: -8835090576420955535
+    second: SnowBrosSheet1_125
+  - first:
+      213: 331439775592707396
+    second: SnowBrosSheet1_126
+  - first:
+      213: 7475868245792759687
+    second: SnowBrosSheet1_127
+  - first:
+      213: -8327732590165891570
+    second: SnowBrosSheet1_128
+  - first:
+      213: -4558191519441092649
+    second: SnowBrosSheet1_129
+  - first:
+      213: 75805945221289331
+    second: SnowBrosSheet1_130
+  - first:
+      213: 7670670271318277472
+    second: SnowBrosSheet1_131
+  - first:
+      213: -5574883766455653920
+    second: SnowBrosSheet1_132
+  - first:
+      213: 85659556315276772
+    second: SnowBrosSheet1_133
+  - first:
+      213: 2957696447472049421
+    second: SnowBrosSheet1_134
+  - first:
+      213: 9092553644281759442
+    second: SnowBrosSheet1_135
+  - first:
+      213: -7957188630884990841
+    second: SnowBrosSheet1_136
+  - first:
+      213: -6076562718232110061
+    second: SnowBrosSheet1_137
+  - first:
+      213: -2646356924398564775
+    second: SnowBrosSheet1_138
+  - first:
+      213: 1604758471500033264
+    second: SnowBrosSheet1_139
+  - first:
+      213: -5533391864037297045
+    second: SnowBrosSheet1_140
+  - first:
+      213: 1375463716324961359
+    second: SnowBrosSheet1_141
+  - first:
+      213: 68008985280462988
+    second: SnowBrosSheet1_142
+  - first:
+      213: 7413518777879688435
+    second: SnowBrosSheet1_143
+  - first:
+      213: 1042222484563608724
+    second: SnowBrosSheet1_144
+  - first:
+      213: -8039660854745531099
+    second: SnowBrosSheet1_145
+  - first:
+      213: 4708441720801119249
+    second: SnowBrosSheet1_146
+  - first:
+      213: -7854515988236871374
+    second: SnowBrosSheet1_147
+  - first:
+      213: -6205603332245350055
+    second: SnowBrosSheet1_148
+  - first:
+      213: -3223666487284574841
+    second: SnowBrosSheet1_149
+  - first:
+      213: 6311582298386983759
+    second: SnowBrosSheet1_150
+  - first:
+      213: 1891196171187495610
+    second: SnowBrosSheet1_151
+  - first:
+      213: -7158474867507175304
+    second: SnowBrosSheet1_152
+  - first:
+      213: 2076428962919911884
+    second: SnowBrosSheet1_153
+  - first:
+      213: -5980980343482339728
+    second: SnowBrosSheet1_154
+  - first:
+      213: 2377875045883098309
+    second: SnowBrosSheet1_155
+  - first:
+      213: -1875192877809893343
+    second: SnowBrosSheet1_156
+  - first:
+      213: 2061200120233445656
+    second: SnowBrosSheet1_157
+  - first:
+      213: 4842027536754638363
+    second: SnowBrosSheet1_158
+  - first:
+      213: 1064408445436648256
+    second: SnowBrosSheet1_159
+  - first:
+      213: -2505263151175319089
+    second: SnowBrosSheet1_160
+  - first:
+      213: 1440705807936446441
+    second: SnowBrosSheet1_161
+  - first:
+      213: 1284272690376084579
+    second: SnowBrosSheet1_162
+  - first:
+      213: -3549209962946065974
+    second: SnowBrosSheet1_163
+  - first:
+      213: -4413510148948295742
+    second: SnowBrosSheet1_164
+  - first:
+      213: 2421284095219018599
+    second: SnowBrosSheet1_165
+  - first:
+      213: -540274727616041276
+    second: SnowBrosSheet1_166
+  - first:
+      213: -8869058213543887831
+    second: SnowBrosSheet1_167
+  - first:
+      213: 6455452225863073937
+    second: SnowBrosSheet1_168
+  - first:
+      213: -8166718516297832959
+    second: SnowBrosSheet1_169
+  - first:
+      213: -8947287783447910780
+    second: SnowBrosSheet1_170
+  - first:
+      213: -5609536646608167672
+    second: SnowBrosSheet1_171
+  - first:
+      213: -1874557504690981562
+    second: SnowBrosSheet1_172
+  - first:
+      213: -2487134896837121419
+    second: SnowBrosSheet1_173
+  - first:
+      213: -1272586275372468775
+    second: SnowBrosSheet1_174
+  - first:
+      213: 1214978507889321376
+    second: SnowBrosSheet1_175
+  - first:
+      213: -5040587806792094864
+    second: SnowBrosSheet1_176
+  - first:
+      213: 2475663089464777926
+    second: SnowBrosSheet1_177
+  - first:
+      213: -551891322353960355
+    second: SnowBrosSheet1_178
+  - first:
+      213: 8773861076802000320
+    second: SnowBrosSheet1_179
+  - first:
+      213: 8432098906921048774
+    second: SnowBrosSheet1_180
+  - first:
+      213: -4942663139889483809
+    second: SnowBrosSheet1_181
+  - first:
+      213: 1811172089369958604
+    second: SnowBrosSheet1_182
+  - first:
+      213: -4428922544494862701
+    second: SnowBrosSheet1_183
+  - first:
+      213: -307329668929143111
+    second: SnowBrosSheet1_184
+  - first:
+      213: -7005522732685307988
+    second: SnowBrosSheet1_185
+  - first:
+      213: 6560025593822601347
+    second: SnowBrosSheet1_186
+  - first:
+      213: 1117404141778898395
+    second: SnowBrosSheet1_187
+  - first:
+      213: -6816805604089271030
+    second: SnowBrosSheet1_188
+  - first:
+      213: -6452705295548763545
+    second: SnowBrosSheet1_189
+  - first:
+      213: -671475708294918654
+    second: SnowBrosSheet1_190
+  - first:
+      213: -5588637095943677504
+    second: SnowBrosSheet1_191
+  - first:
+      213: -7185971424058260870
+    second: SnowBrosSheet1_192
+  - first:
+      213: -2111172430138140912
+    second: SnowBrosSheet1_193
+  - first:
+      213: -6138188146444842111
+    second: SnowBrosSheet1_194
+  - first:
+      213: 7650822407630544804
+    second: SnowBrosSheet1_195
+  - first:
+      213: -2478211103741278686
+    second: SnowBrosSheet1_196
+  - first:
+      213: -4792340169885221997
+    second: SnowBrosSheet1_197
+  - first:
+      213: -6445064673995893160
+    second: SnowBrosSheet1_198
+  - first:
+      213: 5325561074856792621
+    second: SnowBrosSheet1_199
+  - first:
+      213: 8852400094544337168
+    second: SnowBrosSheet1_200
+  - first:
+      213: -6294157691424274451
+    second: SnowBrosSheet1_201
+  - first:
+      213: -2240721861886818208
+    second: SnowBrosSheet1_202
+  - first:
+      213: 6511881391166902187
+    second: SnowBrosSheet1_203
+  - first:
+      213: 8895291208792329796
+    second: SnowBrosSheet1_204
+  - first:
+      213: 6054700372537367300
+    second: SnowBrosSheet1_205
+  - first:
+      213: -4639648610191431290
+    second: SnowBrosSheet1_206
+  - first:
+      213: -1532744103125204297
+    second: SnowBrosSheet1_207
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SnowBrosSheet1_0
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 484
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83be2d20c7cd93360800000000000000
+      internalID: 7149988308608805688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 484
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9535ecb2c3b7d2650800000000000000
+      internalID: 6209754959576978265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 484
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb9fbfd68fb02cb0800000000000000
+      internalID: -4890698609323959367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 484
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacf4a2539a692230800000000000000
+      internalID: 3614537356920814762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 450
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18af41eaa1c3d4f00800000000000000
+      internalID: 1102603569063066241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 450
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06fb4771a642deb0800000000000000
+      internalID: -4696613802088860150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 450
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b9137115890bf70800000000000000
+      internalID: 9201021512766823254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 450
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943bd6b9ab904e9c0800000000000000
+      internalID: -3898980680319782071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 450
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd1e1aadf9267a30800000000000000
+      internalID: 4212600670909242802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 450
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69baccfb238b5fb0800000000000000
+      internalID: -4657985164636669585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 450
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021edffcabcaf6180800000000000000
+      internalID: -9119880802048548576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 450
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339bfdcf8f1db3870800000000000000
+      internalID: 8663749175501895987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 450
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35363b8a492594040800000000000000
+      internalID: 4632324490166231891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 450
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f197622037974120800000000000000
+      internalID: 2398051559589515768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 450
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e70f66ba381e7d0800000000000000
+      internalID: -2890884713605464450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_15
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 450
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a814f4b5bf300b0800000000000000
+      internalID: -5763486728513811962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 450
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceea7077cde7e470800000000000000
+      internalID: 8423963068861181645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_17
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 450
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217e8e614b8d57850800000000000000
+      internalID: 6374239115602880274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 450
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9083a7071199c70800000000000000
+      internalID: 8978226506924296662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_19
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 450
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc9db90e7afc03e0800000000000000
+      internalID: -2086017108143137577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_20
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 450
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd897b90a53da4000800000000000000
+      internalID: 21061531940133087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_21
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 450
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a007119238f4a40800000000000000
+      internalID: 5354642694376262146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 419
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cb04438c1180980800000000000000
+      internalID: -8572582339131950041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 419
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba49b8f03324bdb70800000000000000
+      internalID: 8924799873636340907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 419
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deeba9f23e94b800800000000000000
+      internalID: 627300189885689561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_25
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 419
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca47602892f6f00b0800000000000000
+      internalID: -5760263174317771604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_26
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 419
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b16b8ee309a09d0800000000000000
+      internalID: -2807272817845462146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 419
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7a61334e234a320800000000000000
+      internalID: 2568233643199080413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 419
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6bc001c7ff2a420800000000000000
+      internalID: 2639953239902828194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_29
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 419
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49cb12f35f63b6a0800000000000000
+      internalID: -6434677036247430833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 419
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bf4313b61674740800000000000000
+      internalID: 5136181013054290751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_31
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 419
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0b196b0a853c5f0800000000000000
+      internalID: -737648466677616412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_32
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 419
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e374fef3b39edce0800000000000000
+      internalID: -1378502034642930714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_33
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 419
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e14ec00d7b57290800000000000000
+      internalID: -7893200667699569107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_34
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 419
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485fa3a2b3ef851b0800000000000000
+      internalID: -5667500600980736636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_35
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 419
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995e9828cb5a9dda0800000000000000
+      internalID: -5919518006139296359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_36
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 419
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dfd985cb5f3b8d0800000000000000
+      internalID: -2831649551396504168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_37
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 419
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f05865163f1c9e20800000000000000
+      internalID: 3358593739259400439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_38
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 419
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b94545b32ecb480800000000000000
+      internalID: -8881975620635682023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_39
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 419
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f792ae3b2958463d0800000000000000
+      internalID: -3214297368905504385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 411
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b562b056afaab1f0800000000000000
+      internalID: -1028316436047436360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 383
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d14a612540a1a10800000000000000
+      internalID: 1880820544994286986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c068562a2df5f10800000000000000
+      internalID: 2260757132893097061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_43
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 383
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4490b67d4fd636ad0800000000000000
+      internalID: -2710201652393342652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_44
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 383
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b288d6da8296d4620800000000000000
+      internalID: 2759977770077227051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 383
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc6e6dea4672fb30800000000000000
+      internalID: 4319645056784821437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_46
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 383
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593ba27cba6705630800000000000000
+      internalID: 3913758556337910677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 383
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a635ea62eb52b080800000000000000
+      internalID: -9173168462986135895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_48
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 383
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1942f0e1cab823400800000000000000
+      internalID: 302457696342189201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 383
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f8a00dd07b8e7d0800000000000000
+      internalID: -2888857891005362395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_50
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 383
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82587c688d5bb6510800000000000000
+      internalID: 1543527238883312936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_51
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 351
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db4f49b89e18b6a0800000000000000
+      internalID: -6433358426405909548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_52
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 351
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d690055c0d17d6350800000000000000
+      internalID: 6011586219086973293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_53
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 351
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcf05354882ea440800000000000000
+      internalID: 4948937589325364474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_54
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 351
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214ad00752e88add0800000000000000
+      internalID: -2474571703795211246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_55
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 351
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3e5c9facd808ba0800000000000000
+      internalID: -6088710793291504663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 351
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79d21b018c15dc40800000000000000
+      internalID: 5536362657484036474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_57
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 351
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95d95ff871aa8a20800000000000000
+      internalID: 3065440037431268764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_58
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 351
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642a1025ecebf6b20800000000000000
+      internalID: 3129930059394163270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_59
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 351
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b4ea7d75bfed010800000000000000
+      internalID: 1215685304135863116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_60
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 351
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e49b3fd48123e030800000000000000
+      internalID: 3522696188098483430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 351
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3cf16e6f2125f80800000000000000
+      internalID: -8119406326563486800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_62
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 351
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f9fe12d0979b7d0800000000000000
+      internalID: -2902155387552686305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_63
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 351
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882c4c5d7c32c1a40800000000000000
+      internalID: 5340182599346471560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_64
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 351
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4b46b18467bad10800000000000000
+      internalID: 2137932500186739954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_65
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 351
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c758bd5b1028390800000000000000
+      internalID: -7817684122578092987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_66
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 351
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c6f56aa6fb19040800000000000000
+      internalID: 4652710354829143059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_67
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 351
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6182a4aed23e27bd0800000000000000
+      internalID: -2633793045714556906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_68
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 351
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9eb9b1c1e294090800000000000000
+      internalID: -8049852160690886195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 319
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdc0dec2d0942f50800000000000000
+      internalID: 6855763767852060081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_70
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 319
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643b36551d47c7ae0800000000000000
+      internalID: -1550235729292709050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_71
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 319
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb7dc48570e1f2d0800000000000000
+      internalID: -3246567061013562393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_72
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 319
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29e0681018ae4540800000000000000
+      internalID: 4994113823882406186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_73
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 319
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb5d02d312f91ab0800000000000000
+      internalID: -5036728541294797839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_74
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 319
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7238b640d4fc1f0800000000000000
+      internalID: -1022513909010847824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_75
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 319
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b474bf361c9c49690800000000000000
+      internalID: -7596224839023900853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_76
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 319
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da54fa26ff354030800000000000000
+      internalID: 3478256613728738004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 319
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5a0e6901efeba60800000000000000
+      internalID: 7691864560799622648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_78
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 319
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b99734206c241b0800000000000000
+      internalID: -5673754867509126388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_79
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 319
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7b083c43f9e3a80800000000000000
+      internalID: -8485169598952327207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_80
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 319
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f45e482d51f0240800000000000000
+      internalID: 4760047325070839586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_81
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 319
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed329b1fefbc82a00800000000000000
+      internalID: 732059235285279710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_82
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 319
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24960cde3889f4510800000000000000
+      internalID: 1535613690353576258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_83
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 319
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b13b7a7a269d980800000000000000
+      internalID: -8513665148354618538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_84
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 319
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3bdb370bd711060800000000000000
+      internalID: 6922452299054691296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_85
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 319
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1cd2516b0e935e0800000000000000
+      internalID: -1929263892707556929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_86
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 319
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95ecce789179e610800000000000000
+      internalID: 1650975638184322463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_87
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 311
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171e05dd9596b83f0800000000000000
+      internalID: -897507866044210831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_88
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 283
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ac1a411c10db960800000000000000
+      internalID: 7619248073367210520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_89
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99b1ea90abd147e0800000000000000
+      internalID: -1782902494622271076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_90
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 283
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4429323bae47cf90800000000000000
+      internalID: -6933486604124609458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_91
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 283
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6f058558857cc80800000000000000
+      internalID: -8302570058298624340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_92
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 283
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f0c0c5ccc7ba730800000000000000
+      internalID: 4011437110263025466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_93
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 283
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2e4d92f9e945150800000000000000
+      internalID: 5860483421554664147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_94
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 252
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8856161bcb9ca0a90800000000000000
+      internalID: -7346838029834558072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_95
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 252
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d2fd949f70574a0800000000000000
+      internalID: -6596357311946609393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_96
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 252
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f93c935b53fea60800000000000000
+      internalID: 7705436539928682385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_97
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 252
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5336ffef0bd9830800000000000000
+      internalID: 4079611446720411045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_98
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 218
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903985138cba3c040800000000000000
+      internalID: 4666762515195663113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_99
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 218
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5fe09d6c46e5450800000000000000
+      internalID: 6079407352204686826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_100
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 218
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0b440cc72ef77c0800000000000000
+      internalID: -4071286512690089807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_101
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 218
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05078c75d32860f60800000000000000
+      internalID: 8000224988047634512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_102
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 218
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b90b0c5b57800720800000000000000
+      internalID: 2810394993935190451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_103
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 218
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e697b75e03b489d60800000000000000
+      internalID: 7897144619974752622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_104
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 218
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83ee400d7259a1b0800000000000000
+      internalID: -5644889961102646386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_105
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 218
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c26cb331a6caea0800000000000000
+      internalID: -5860192384276091747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_106
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 218
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5536bcee218a3fa0800000000000000
+      internalID: -5820197529883101858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_107
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 218
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce0b47262c9371a0800000000000000
+      internalID: -6812930123599507764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 218
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eba054fbc19947d0800000000000000
+      internalID: -2933653377091851296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_109
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 218
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610c5b630cffea500800000000000000
+      internalID: 409545817153978390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_110
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 218
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be97b7fc287253610800000000000000
+      internalID: 1600228685380286955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_111
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 218
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2035c5cedee5f60800000000000000
+      internalID: 8025113185437811414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_112
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 218
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f1302008e851e70800000000000000
+      internalID: 9085324503730560895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_113
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 218
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecac7dafba0e80410800000000000000
+      internalID: 1443650709824719566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_114
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 218
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b6cc73c2ec186d0800000000000000
+      internalID: -2989881988287272091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_115
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 218
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc31f41e27896c610800000000000000
+      internalID: 1641166733396874189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_116
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 184
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d5e6db7c588a410800000000000000
+      internalID: 1488586769769061702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_117
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 184
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed1eef90d3725e10800000000000000
+      internalID: 2184936109101686246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_118
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 184
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d47310a5ef450880800000000000000
+      internalID: -8645416062016064300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_119
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 184
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a235a39e43b8700800000000000000
+      internalID: 543586356338829917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_120
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 184
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb76941a95c292fc0800000000000000
+      internalID: -3519232870343678021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_121
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 184
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6150db876fd5d50800000000000000
+      internalID: 6727804416789124779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_122
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 184
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7099404e653c980800000000000000
+      internalID: -8519870532725176374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_123
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 184
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d094ebbf13e4160800000000000000
+      internalID: 7011596627161451909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_124
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 184
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7499713e8673f50800000000000000
+      internalID: 6861067881885026217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_125
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 184
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a170a5ee3736580800000000000000
+      internalID: -8835090576420955535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_126
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 184
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44573a848b2899400800000000000000
+      internalID: 331439775592707396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_127
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 184
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f991a8f8e9fb760800000000000000
+      internalID: 7475868245792759687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_128
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 184
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06e7bad453fd6c80800000000000000
+      internalID: -8327732590165891570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_129
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 184
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dff381a6fc0eb0c0800000000000000
+      internalID: -4558191519441092649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_130
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 184
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37517c40b115d0100800000000000000
+      internalID: 75805945221289331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_131
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 184
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d331788f1b37a60800000000000000
+      internalID: 7670670271318277472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_132
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 184
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9a15c50c802a2b0800000000000000
+      internalID: -5574883766455653920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_133
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 184
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e52ac1a9e2503100800000000000000
+      internalID: 85659556315276772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_134
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 151
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d91099f39db0920800000000000000
+      internalID: 2957696447472049421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_135
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 151
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d609947d5d3f2e70800000000000000
+      internalID: 9092553644281759442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_136
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 151
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780c2556913629190800000000000000
+      internalID: -7957188630884990841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_137
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 151
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c946c1766bbaba0800000000000000
+      internalID: -6076562718232110061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_138
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 151
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a0454f560464bd0800000000000000
+      internalID: -2646356924398564775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_139
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 151
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcee04d35f354610800000000000000
+      internalID: 1604758471500033264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_140
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 151
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b643505ba617533b0800000000000000
+      internalID: -5533391864037297045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_141
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 151
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cecf466f0a61310800000000000000
+      internalID: 1375463716324961359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_142
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 151
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c804d21dfcd91f000800000000000000
+      internalID: 68008985280462988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_143
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 151
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4f43bcc0c12e660800000000000000
+      internalID: 7413518777879688435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_144
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 151
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494c659e3d7b67e00800000000000000
+      internalID: 1042222484563608724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_145
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 151
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d774e6c036d6090800000000000000
+      internalID: -8039660854745531099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_146
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 151
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ccaf57cceb75140800000000000000
+      internalID: 4708441720801119249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_147
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 151
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239d38ed2572ff290800000000000000
+      internalID: -7854515988236871374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_148
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 151
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9591984e5a441e9a0800000000000000
+      internalID: -6205603332245350055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_149
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 151
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7855217d86c3343d0800000000000000
+      internalID: -3223666487284574841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_150
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 151
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4beff109ae379750800000000000000
+      internalID: 6311582298386983759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_151
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 151
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2a530d5e0ee3a10800000000000000
+      internalID: 1891196171187495610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_152
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 116
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8706ca4090df7ac90800000000000000
+      internalID: -7158474867507175304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_153
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 116
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc19c20f325f0dc10800000000000000
+      internalID: 2076428962919911884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_154
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 116
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e2422f01a4ffca0800000000000000
+      internalID: -5980980343482339728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_155
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 116
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4b02671c8eff020800000000000000
+      internalID: 2377875045883098309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_156
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 116
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1208cc8430af9f5e0800000000000000
+      internalID: -1875192877809893343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_157
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 116
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819c181b69ada9c10800000000000000
+      internalID: 2061200120233445656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_158
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 116
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e7be8f366523340800000000000000
+      internalID: 4842027536754638363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_159
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 116
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b5d2677d985ce00800000000000000
+      internalID: 1064408445436648256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_160
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 116
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1c15dff648b3dd0800000000000000
+      internalID: -2505263151175319089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_161
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 116
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efd4e39c4a6ef310800000000000000
+      internalID: 1440705807936446441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_162
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 116
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c0a902537a2d110800000000000000
+      internalID: 1284272690376084579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_163
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 116
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9825dd75caebec0800000000000000
+      internalID: -3549209962946065974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_164
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 116
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cffa5f37ef00c2c0800000000000000
+      internalID: -4413510148948295742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_165
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 116
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b25db5e012a9120800000000000000
+      internalID: 2421284095219018599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_166
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 116
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce235b6ffe8088f0800000000000000
+      internalID: -540274727616041276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_167
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 116
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cb4798b86cae480800000000000000
+      internalID: -8869058213543887831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_168
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 116
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190c213d89f569950800000000000000
+      internalID: 6455452225863073937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_169
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 116
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106667f47ccf9ae80800000000000000
+      internalID: -8166718516297832959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_170
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 76
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486256c6a29d4d380800000000000000
+      internalID: -8947287783447910780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_171
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 76
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d5268f32ce622b0800000000000000
+      internalID: -5609536646608167672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_172
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645f9dd91eb3cf5e0800000000000000
+      internalID: -1874557504690981562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_173
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 76
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aab8d1dfbeb7dd0800000000000000
+      internalID: -2487134896837121419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_174
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 76
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5f266668dd65ee0800000000000000
+      internalID: -1272586275372468775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_175
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 76
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a52a7404887cd010800000000000000
+      internalID: 1214978507889321376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_176
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 76
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bedfc881c3c0ab0800000000000000
+      internalID: -5040587806792094864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_177
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 76
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc181796725b5220800000000000000
+      internalID: 2475663089464777926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_178
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 76
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ab87034c94758f0800000000000000
+      internalID: -551891322353960355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_179
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 76
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5d867d92403c970800000000000000
+      internalID: 8773861076802000320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_180
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 76
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca1df9d745d40570800000000000000
+      internalID: 8432098906921048774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_181
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 76
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf6876cf02286bb0800000000000000
+      internalID: -4942663139889483809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_182
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 76
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc89ff55b63922910800000000000000
+      internalID: 1811172089369958604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_183
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 76
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e1aa5496e4982c0800000000000000
+      internalID: -4428922544494862701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_184
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 76
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be3a8e5b452cbbf0800000000000000
+      internalID: -307329668929143111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_185
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 76
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf4e54013267ce90800000000000000
+      internalID: -7005522732685307988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_186
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 76
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38064456584e90b50800000000000000
+      internalID: 6560025593822601347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_187
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 76
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd084d8521d18f00800000000000000
+      internalID: 1117404141778898395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_188
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 45
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ded598b67d561a0800000000000000
+      internalID: -6816805604089271030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_189
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 45
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762b88ab8b26376a0800000000000000
+      internalID: -6452705295548763545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_190
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 45
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e07c3a6607ea6f0800000000000000
+      internalID: -671475708294918654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_191
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 45
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9d4bdcb2c2172b0800000000000000
+      internalID: -5588637095943677504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_192
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 45
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7246ee001d464c90800000000000000
+      internalID: -7185971424058260870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_193
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 45
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017940a3cdb93b2e0800000000000000
+      internalID: -2111172430138140912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_194
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 45
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b44aef666c0daa0800000000000000
+      internalID: -6138188146444842111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_195
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 45
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afda66a17e2d2a60800000000000000
+      internalID: 7650822407630544804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_196
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 45
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226821b9120ab9dd0800000000000000
+      internalID: -2478211103741278686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_197
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 45
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bf723a1003e7db0800000000000000
+      internalID: -4792340169885221997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_198
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 45
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8565e0093d78e86a0800000000000000
+      internalID: -6445064673995893160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_199
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 45
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d229c70e49138e940800000000000000
+      internalID: 5325561074856792621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_200
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 45
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01913f4ebfa0ada70800000000000000
+      internalID: 8852400094544337168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_201
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 45
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de70d527de8a6a8a0800000000000000
+      internalID: -6294157691424274451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_202
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 45
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068c8c5a65b57e0e0800000000000000
+      internalID: -2240721861886818208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_203
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 45
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafcaf3bf99de5a50800000000000000
+      internalID: 6511881391166902187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_204
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 45
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ec8b1a93c627b70800000000000000
+      internalID: 8895291208792329796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_205
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 45
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bd38ed8ed960450800000000000000
+      internalID: 6054700372537367300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_206
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 9
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689a7e2cb28ac9fb0800000000000000
+      internalID: -4639648610191431290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowBrosSheet1_207
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 9
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2c5a9eb599abae0800000000000000
+      internalID: -1532744103125204297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SnowBrosSheet1_0: 7149988308608805688
+      SnowBrosSheet1_1: 6209754959576978265
+      SnowBrosSheet1_10: -9119880802048548576
+      SnowBrosSheet1_100: -4071286512690089807
+      SnowBrosSheet1_101: 8000224988047634512
+      SnowBrosSheet1_102: 2810394993935190451
+      SnowBrosSheet1_103: 7897144619974752622
+      SnowBrosSheet1_104: -5644889961102646386
+      SnowBrosSheet1_105: -5860192384276091747
+      SnowBrosSheet1_106: -5820197529883101858
+      SnowBrosSheet1_107: -6812930123599507764
+      SnowBrosSheet1_108: -2933653377091851296
+      SnowBrosSheet1_109: 409545817153978390
+      SnowBrosSheet1_11: 8663749175501895987
+      SnowBrosSheet1_110: 1600228685380286955
+      SnowBrosSheet1_111: 8025113185437811414
+      SnowBrosSheet1_112: 9085324503730560895
+      SnowBrosSheet1_113: 1443650709824719566
+      SnowBrosSheet1_114: -2989881988287272091
+      SnowBrosSheet1_115: 1641166733396874189
+      SnowBrosSheet1_116: 1488586769769061702
+      SnowBrosSheet1_117: 2184936109101686246
+      SnowBrosSheet1_118: -8645416062016064300
+      SnowBrosSheet1_119: 543586356338829917
+      SnowBrosSheet1_12: 4632324490166231891
+      SnowBrosSheet1_120: -3519232870343678021
+      SnowBrosSheet1_121: 6727804416789124779
+      SnowBrosSheet1_122: -8519870532725176374
+      SnowBrosSheet1_123: 7011596627161451909
+      SnowBrosSheet1_124: 6861067881885026217
+      SnowBrosSheet1_125: -8835090576420955535
+      SnowBrosSheet1_126: 331439775592707396
+      SnowBrosSheet1_127: 7475868245792759687
+      SnowBrosSheet1_128: -8327732590165891570
+      SnowBrosSheet1_129: -4558191519441092649
+      SnowBrosSheet1_13: 2398051559589515768
+      SnowBrosSheet1_130: 75805945221289331
+      SnowBrosSheet1_131: 7670670271318277472
+      SnowBrosSheet1_132: -5574883766455653920
+      SnowBrosSheet1_133: 85659556315276772
+      SnowBrosSheet1_134: 2957696447472049421
+      SnowBrosSheet1_135: 9092553644281759442
+      SnowBrosSheet1_136: -7957188630884990841
+      SnowBrosSheet1_137: -6076562718232110061
+      SnowBrosSheet1_138: -2646356924398564775
+      SnowBrosSheet1_139: 1604758471500033264
+      SnowBrosSheet1_14: -2890884713605464450
+      SnowBrosSheet1_140: -5533391864037297045
+      SnowBrosSheet1_141: 1375463716324961359
+      SnowBrosSheet1_142: 68008985280462988
+      SnowBrosSheet1_143: 7413518777879688435
+      SnowBrosSheet1_144: 1042222484563608724
+      SnowBrosSheet1_145: -8039660854745531099
+      SnowBrosSheet1_146: 4708441720801119249
+      SnowBrosSheet1_147: -7854515988236871374
+      SnowBrosSheet1_148: -6205603332245350055
+      SnowBrosSheet1_149: -3223666487284574841
+      SnowBrosSheet1_15: -5763486728513811962
+      SnowBrosSheet1_150: 6311582298386983759
+      SnowBrosSheet1_151: 1891196171187495610
+      SnowBrosSheet1_152: -7158474867507175304
+      SnowBrosSheet1_153: 2076428962919911884
+      SnowBrosSheet1_154: -5980980343482339728
+      SnowBrosSheet1_155: 2377875045883098309
+      SnowBrosSheet1_156: -1875192877809893343
+      SnowBrosSheet1_157: 2061200120233445656
+      SnowBrosSheet1_158: 4842027536754638363
+      SnowBrosSheet1_159: 1064408445436648256
+      SnowBrosSheet1_16: 8423963068861181645
+      SnowBrosSheet1_160: -2505263151175319089
+      SnowBrosSheet1_161: 1440705807936446441
+      SnowBrosSheet1_162: 1284272690376084579
+      SnowBrosSheet1_163: -3549209962946065974
+      SnowBrosSheet1_164: -4413510148948295742
+      SnowBrosSheet1_165: 2421284095219018599
+      SnowBrosSheet1_166: -540274727616041276
+      SnowBrosSheet1_167: -8869058213543887831
+      SnowBrosSheet1_168: 6455452225863073937
+      SnowBrosSheet1_169: -8166718516297832959
+      SnowBrosSheet1_17: 6374239115602880274
+      SnowBrosSheet1_170: -8947287783447910780
+      SnowBrosSheet1_171: -5609536646608167672
+      SnowBrosSheet1_172: -1874557504690981562
+      SnowBrosSheet1_173: -2487134896837121419
+      SnowBrosSheet1_174: -1272586275372468775
+      SnowBrosSheet1_175: 1214978507889321376
+      SnowBrosSheet1_176: -5040587806792094864
+      SnowBrosSheet1_177: 2475663089464777926
+      SnowBrosSheet1_178: -551891322353960355
+      SnowBrosSheet1_179: 8773861076802000320
+      SnowBrosSheet1_18: 8978226506924296662
+      SnowBrosSheet1_180: 8432098906921048774
+      SnowBrosSheet1_181: -4942663139889483809
+      SnowBrosSheet1_182: 1811172089369958604
+      SnowBrosSheet1_183: -4428922544494862701
+      SnowBrosSheet1_184: -307329668929143111
+      SnowBrosSheet1_185: -7005522732685307988
+      SnowBrosSheet1_186: 6560025593822601347
+      SnowBrosSheet1_187: 1117404141778898395
+      SnowBrosSheet1_188: -6816805604089271030
+      SnowBrosSheet1_189: -6452705295548763545
+      SnowBrosSheet1_19: -2086017108143137577
+      SnowBrosSheet1_190: -671475708294918654
+      SnowBrosSheet1_191: -5588637095943677504
+      SnowBrosSheet1_192: -7185971424058260870
+      SnowBrosSheet1_193: -2111172430138140912
+      SnowBrosSheet1_194: -6138188146444842111
+      SnowBrosSheet1_195: 7650822407630544804
+      SnowBrosSheet1_196: -2478211103741278686
+      SnowBrosSheet1_197: -4792340169885221997
+      SnowBrosSheet1_198: -6445064673995893160
+      SnowBrosSheet1_199: 5325561074856792621
+      SnowBrosSheet1_2: -4890698609323959367
+      SnowBrosSheet1_20: 21061531940133087
+      SnowBrosSheet1_200: 8852400094544337168
+      SnowBrosSheet1_201: -6294157691424274451
+      SnowBrosSheet1_202: -2240721861886818208
+      SnowBrosSheet1_203: 6511881391166902187
+      SnowBrosSheet1_204: 8895291208792329796
+      SnowBrosSheet1_205: 6054700372537367300
+      SnowBrosSheet1_206: -4639648610191431290
+      SnowBrosSheet1_207: -1532744103125204297
+      SnowBrosSheet1_21: 5354642694376262146
+      SnowBrosSheet1_22: -8572582339131950041
+      SnowBrosSheet1_23: 8924799873636340907
+      SnowBrosSheet1_24: 627300189885689561
+      SnowBrosSheet1_25: -5760263174317771604
+      SnowBrosSheet1_26: -2807272817845462146
+      SnowBrosSheet1_27: 2568233643199080413
+      SnowBrosSheet1_28: 2639953239902828194
+      SnowBrosSheet1_29: -6434677036247430833
+      SnowBrosSheet1_3: 3614537356920814762
+      SnowBrosSheet1_30: 5136181013054290751
+      SnowBrosSheet1_31: -737648466677616412
+      SnowBrosSheet1_32: -1378502034642930714
+      SnowBrosSheet1_33: -7893200667699569107
+      SnowBrosSheet1_34: -5667500600980736636
+      SnowBrosSheet1_35: -5919518006139296359
+      SnowBrosSheet1_36: -2831649551396504168
+      SnowBrosSheet1_37: 3358593739259400439
+      SnowBrosSheet1_38: -8881975620635682023
+      SnowBrosSheet1_39: -3214297368905504385
+      SnowBrosSheet1_4: 1102603569063066241
+      SnowBrosSheet1_40: -1028316436047436360
+      SnowBrosSheet1_41: 1880820544994286986
+      SnowBrosSheet1_42: 2260757132893097061
+      SnowBrosSheet1_43: -2710201652393342652
+      SnowBrosSheet1_44: 2759977770077227051
+      SnowBrosSheet1_45: 4319645056784821437
+      SnowBrosSheet1_46: 3913758556337910677
+      SnowBrosSheet1_47: -9173168462986135895
+      SnowBrosSheet1_48: 302457696342189201
+      SnowBrosSheet1_49: -2888857891005362395
+      SnowBrosSheet1_5: -4696613802088860150
+      SnowBrosSheet1_50: 1543527238883312936
+      SnowBrosSheet1_51: -6433358426405909548
+      SnowBrosSheet1_52: 6011586219086973293
+      SnowBrosSheet1_53: 4948937589325364474
+      SnowBrosSheet1_54: -2474571703795211246
+      SnowBrosSheet1_55: -6088710793291504663
+      SnowBrosSheet1_56: 5536362657484036474
+      SnowBrosSheet1_57: 3065440037431268764
+      SnowBrosSheet1_58: 3129930059394163270
+      SnowBrosSheet1_59: 1215685304135863116
+      SnowBrosSheet1_6: 9201021512766823254
+      SnowBrosSheet1_60: 3522696188098483430
+      SnowBrosSheet1_61: -8119406326563486800
+      SnowBrosSheet1_62: -2902155387552686305
+      SnowBrosSheet1_63: 5340182599346471560
+      SnowBrosSheet1_64: 2137932500186739954
+      SnowBrosSheet1_65: -7817684122578092987
+      SnowBrosSheet1_66: 4652710354829143059
+      SnowBrosSheet1_67: -2633793045714556906
+      SnowBrosSheet1_68: -8049852160690886195
+      SnowBrosSheet1_69: 6855763767852060081
+      SnowBrosSheet1_7: -3898980680319782071
+      SnowBrosSheet1_70: -1550235729292709050
+      SnowBrosSheet1_71: -3246567061013562393
+      SnowBrosSheet1_72: 4994113823882406186
+      SnowBrosSheet1_73: -5036728541294797839
+      SnowBrosSheet1_74: -1022513909010847824
+      SnowBrosSheet1_75: -7596224839023900853
+      SnowBrosSheet1_76: 3478256613728738004
+      SnowBrosSheet1_77: 7691864560799622648
+      SnowBrosSheet1_78: -5673754867509126388
+      SnowBrosSheet1_79: -8485169598952327207
+      SnowBrosSheet1_8: 4212600670909242802
+      SnowBrosSheet1_80: 4760047325070839586
+      SnowBrosSheet1_81: 732059235285279710
+      SnowBrosSheet1_82: 1535613690353576258
+      SnowBrosSheet1_83: -8513665148354618538
+      SnowBrosSheet1_84: 6922452299054691296
+      SnowBrosSheet1_85: -1929263892707556929
+      SnowBrosSheet1_86: 1650975638184322463
+      SnowBrosSheet1_87: -897507866044210831
+      SnowBrosSheet1_88: 7619248073367210520
+      SnowBrosSheet1_89: -1782902494622271076
+      SnowBrosSheet1_9: -4657985164636669585
+      SnowBrosSheet1_90: -6933486604124609458
+      SnowBrosSheet1_91: -8302570058298624340
+      SnowBrosSheet1_92: 4011437110263025466
+      SnowBrosSheet1_93: 5860483421554664147
+      SnowBrosSheet1_94: -7346838029834558072
+      SnowBrosSheet1_95: -6596357311946609393
+      SnowBrosSheet1_96: 7705436539928682385
+      SnowBrosSheet1_97: 4079611446720411045
+      SnowBrosSheet1_98: 4666762515195663113
+      SnowBrosSheet1_99: 6079407352204686826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
